@@ -4,7 +4,7 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://phonespecpro.net/oneplus-15-launch-november-13-news</loc>
+    <loc>https://phonespecpro.net/news/oneplus-15-launch-november-13</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpecPro</news:name>
@@ -16,7 +16,7 @@
   </url>
 
   <url>
-    <loc>https://phonespecpro.net/oppo-find-x9-pro-debut</loc>
+    <loc>https://phonespecpro.net/news/oppo-find-x9-pro-debut</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpecPro</news:name>
@@ -28,7 +28,7 @@
   </url>
 
   <url>
-    <loc>https://phonespecpro.net/realme-gt-8-pro-launch-news</loc>
+    <loc>https://phonespecpro.net/news/realme-gt-8-pro-launch-news</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpecPro</news:name>
@@ -62,7 +62,7 @@
       <news:title>Lava Agni 4 Release Date Set: Affordable Dimensity 8350 Phone with 7,000mAh Battery</news:title>
     </news:news>
   </url>
-  
+
   <url>
     <loc>https://phonespecpro.net/news/iqoo-neo-11-launch-news</loc>
     <news:news>
