@@ -4,135 +4,76 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://phonespecpro.com/news/oneplus-15-launch-november-13</loc>
+    <loc>https://phonespecpro.com/news/vivo-x300-pro-india-launch-date</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpecPro</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-06T11:00:00Z</news:publication_date>
-      <news:title>OnePlus 15 Launch, Snapdragon 8 Elite Gen 5, November 13</news:title>
+      <news:publication_date>2025-11-15T15:40:00+01:00</news:publication_date>
+      <news:title>Vivo X300, X300 Pro India Launch Date Confirmed in New Announcement</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://phonespecpro.com/news/oppo-find-x9-pro-debut</loc>
+    <loc>https://phonespecpro.com/news/oneplus-15-first-software-update</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpecPro</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-06T11:00:00Z</news:publication_date>
-      <news:title>OPPO Find X9 Pro Debuts with Hasselblad Master Camera and Breakthrough Zoom Technology</news:title>
+      <news:publication_date>2025-11-15T15:40:00+01:00</news:publication_date>
+      <news:title>OnePlus 15 Gets Its First Software Update After Launch</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://phonespecpro.com/news/realme-gt-8-pro-launch-news</loc>
+    <loc>https://phonespecpro.com/news/poco-f8-pro-geekbench-listing</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpecPro</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-06T11:00:00Z</news:publication_date>
-      <news:title>Realme GT 8 Pro Joins November Phone Launches with Flagship Specs and Superior Photography</news:title>
+      <news:publication_date>2025-11-15T15:40:00+01:00</news:publication_date>
+      <news:title>Poco F8 Pro Spotted on Geekbench, Snapdragon 8 Elite Chipset Revealed</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://phonespecpro.com/news/iqoo-15-india-launch</loc>
+    <loc>https://phonespecpro.com/news/honor-500-pro-8000mah-battery-leak</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpecPro</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-06T11:00:00Z</news:publication_date>
-      <news:title>iQOO 15 India Launch Announced: Snapdragon 8 Elite and 7,000mAh Battery for Gaming Power</news:title>
+      <news:publication_date>2025-11-15T15:40:00+01:00</news:publication_date>
+      <news:title>Honor 500 Pro Tipped to Feature Massive 8,000mAh Battery</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://phonespecpro.com/news/lava-agni-4-launch-news</loc>
+    <loc>https://phonespecpro.com/news/oppo-find-x9-pro-india-price-leak</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpecPro</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-06T11:00:00Z</news:publication_date>
-      <news:title>Lava Agni 4 Release Date Set: Affordable Dimensity 8350 Phone with 7,000mAh Battery</news:title>
+      <news:publication_date>2025-11-15T15:40:00+01:00</news:publication_date>
+      <news:title>Oppo Find X9, Find X9 Pro India Prices Leak Ahead of Release</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://phonespecpro.com/news/iqoo-neo-11-launch-news</loc>
+    <loc>https://phonespecpro.com/news/huawei-mate-80-series-esim-only-leak</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpecPro</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-30T13:00:00Z</news:publication_date>
-      <news:title>iQOO Neo 11 Launches Today with Snapdragon 8 Elite and 7500mAh Battery</news:title>
+      <news:publication_date>2025-11-15T15:40:00+01:00</news:publication_date>
+      <news:title>Huawei Mate 80 Series May Launch with eSIM-Only Model Option</news:title>
     </news:news>
   </url>
 
-  <url>
-    <loc>https://phonespecpro.com/news/ai-chip-shortage-smartphone-prices-increase</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpecPro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-28T13:00:00Z</news:publication_date>
-      <news:title>AI Chip Shortage Impact on Smartphone Prices Up Worldwide – What You Should Expect Next</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/nothing-os-lock-screen-ads-controversy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpecPro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-28T13:00:00Z</news:publication_date>
-      <news:title>Nothing OS Sparks Outrage After Testing Lock-Screen Ads on Beta Users</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/best-iphone-17-cases-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpecPro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-28T13:00:00Z</news:publication_date>
-      <news:title>Best iPhone 17 &amp; 17 Pro Cases of 2025 – Top Picks for Full Protection</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/ai-chip-demand-smartphone-cost-increase</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpecPro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-28T13:00:00Z</news:publication_date>
-      <news:title>AI Chip Demand Drives Smartphone Cost Increase Smartphone Production Costs</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/90-dollar-minimalist-smartphone-digital-detox</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpecPro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-28T13:00:00Z</news:publication_date>
-      <news:title>Meet the $90 Minimalist Smartphone Designed to Help You Disconnect from Digital Noise</news:title>
-    </news:news>
-  </url>
-
+  
 </urlset>
