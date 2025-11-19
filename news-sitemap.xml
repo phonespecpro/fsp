@@ -2,6 +2,42 @@
 <urlset 
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <url>
+    <loc>https://phonespecpro.com/news/apple-n1-chip-iphone-17-network-performance-boost</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpecPro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-19T16:20:00+01:00</news:publication_date>
+      <news:title>Apple's N1 Chip Gives iPhone 17 a Big Real-World Network Performance Boost</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/iphone-fold-battery-rumor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpecPro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-19T16:20:00+01:00</news:publication_date>
+      <news:title>Rumor: iPhone Fold Could Feature a Larger Battery Than iPhone 17 Pro Max</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/wobble-one-launch-india-specifications</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpecPro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-19T16:20:00+01:00</news:publication_date>
+      <news:title>Wobble One Debuts in India, Packs Dimensity 7400 and 50MP Triple Rear Camera</news:title>
+    </news:news>
+  </url>
 
   <url>
     <loc>https://phonespecpro.com/news/google-gemini-3-launch-news</loc>
