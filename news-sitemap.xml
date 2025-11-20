@@ -4,10 +4,82 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://phonespecpro.com/news/realme-gt-8-pro-india-launch-news</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-20T12:30:00+01:00</news:publication_date>
+      <news:title>Realme GT 8 Pro Launches in India With Snapdragon 8 Elite Gen 5 and Switchable Camera Module</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/vivo-x300-pro-india-price-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-20T12:30:00+01:00</news:publication_date>
+      <news:title>Vivo X300, X300 Pro India Prices Leak Ahead of December Launch</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/vivo-s50-pro-mini-chipset-antutu-score</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-20T12:30:00+01:00</news:publication_date>
+      <news:title>Vivo Confirms S50 Pro Mini Chipset and Reveals Impressive AnTuTu Score</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/honor-gt-2-pro-specs-leak-early-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-20T12:30:00+01:00</news:publication_date>
+      <news:title>Honor GT 2 Pro Specs Leak, Tipped to Launch Earlier Than Previous Model</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/vivo-x-fold6-specs-leak-release-window</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-20T12:30:00+01:00</news:publication_date>
+      <news:title>First Vivo X Fold6 Specs Leak Along With Expected Release Window</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/lava-agni-4-launch-specifications</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-20T12:30:00+01:00</news:publication_date>
+      <news:title>Lava Agni 4 Debuts With Dimensity 8350 and 120Hz AMOLED Display</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://phonespecpro.com/news/apple-n1-chip-iphone-17-network-performance-boost</loc>
     <news:news>
       <news:publication>
-        <news:name>PhoneSpecPro</news:name>
+        <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-11-19T16:20:00+01:00</news:publication_date>
@@ -19,7 +91,7 @@
     <loc>https://phonespecpro.com/news/iphone-fold-battery-rumor</loc>
     <news:news>
       <news:publication>
-        <news:name>PhoneSpecPro</news:name>
+        <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-11-19T16:20:00+01:00</news:publication_date>
@@ -31,7 +103,7 @@
     <loc>https://phonespecpro.com/news/wobble-one-launch-india-specifications</loc>
     <news:news>
       <news:publication>
-        <news:name>PhoneSpecPro</news:name>
+        <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-11-19T16:20:00+01:00</news:publication_date>
@@ -43,7 +115,7 @@
     <loc>https://phonespecpro.com/news/google-gemini-3-launch-news</loc>
     <news:news>
       <news:publication>
-        <news:name>PhoneSpecPro</news:name>
+        <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-11-19T13:35:00+01:00</news:publication_date>
@@ -55,7 +127,7 @@
     <loc>https://phonespecpro.com/news/xiaomi-memory-chip-prices-2026-warning</loc>
     <news:news>
       <news:publication>
-        <news:name>PhoneSpecPro</news:name>
+        <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-11-19T13:35:00+01:00</news:publication_date>
@@ -67,7 +139,7 @@
     <loc>https://phonespecpro.com/news/samsung-galaxy-a57-5g-faster-charging-s26</loc>
     <news:news>
       <news:publication>
-        <news:name>PhoneSpecPro</news:name>
+        <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-11-19T13:35:00+01:00</news:publication_date>
@@ -79,7 +151,7 @@
     <loc>https://phonespecpro.com/news/redmi-k90-ultra-specs-leak-comparison</loc>
     <news:news>
       <news:publication>
-        <news:name>PhoneSpecPro</news:name>
+        <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-11-19T13:35:00+01:00</news:publication_date>
@@ -91,7 +163,7 @@
     <loc>https://phonespecpro.com/news/qualcomm-snapdragon-8-gen-5-launch-november-26</loc>
     <news:news>
       <news:publication>
-        <news:name>PhoneSpecPro</news:name>
+        <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-11-19T13:35:00+01:00</news:publication_date>
@@ -103,7 +175,7 @@
     <loc>https://phonespecpro.com/news/realme-16-pro-storage-color-variants-leak</loc>
     <news:news>
       <news:publication>
-        <news:name>PhoneSpecPro</news:name>
+        <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-11-19T13:35:00+01:00</news:publication_date>
