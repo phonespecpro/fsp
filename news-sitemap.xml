@@ -4,6 +4,78 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://phonespecpro.com/news/poco-pad-x1-m1-launch-november-26</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-21T12:42:00+01:00</news:publication_date>
+      <news:title>POCO Pad X1 and Pad M1 Set for Official Launch on November 26</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/google-quick-share-airdrop-compatibility</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-21T12:42:00+01:00</news:publication_date>
+      <news:title>Google Breaks AirDrop Barrier: Android Users Can Now Share Files With iPhones</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/nothing-phone-4a-bis-listing-india-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-21T12:42:00+01:00</news:publication_date>
+      <news:title>Nothing Phone 4a Spotted on BIS Listing, India Launch Expected Soon</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/lg-smart-tv-xbox-cloud-gaming-india</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-21T12:42:00+01:00</news:publication_date>
+      <news:title>LG Smart TVs Gain Xbox Cloud Gaming Support in India</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/openai-chatgpt-group-chat-feature</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-21T12:42:00+01:00</news:publication_date>
+      <news:title>OpenAI Expands ChatGPT With New Group Chat Feature — Here's How It Works</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/huawei-mate-80-series-14-day-battery-outdoor-mode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-21T12:42:00+01:00</news:publication_date>
+      <news:title>Huawei Mate 80 Series to Deliver Up to 14-Day Battery Life With New Outdoor Mode</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://phonespecpro.com/news/realme-gt-8-pro-india-launch-news</loc>
     <news:news>
       <news:publication>
