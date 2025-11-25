@@ -4,6 +4,114 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://phonespecpro.com/news/huawei-mate-x7-launch-news</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-25T13:55:00+01:00</news:publication_date>
+      <news:title>Huawei Mate X7 Debuts With IP59 Rating, Bigger Battery, and Kirin 9030 Pro Chipset</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/zte-nubia-flip3-fold-design-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-25T13:56:00+01:00</news:publication_date>
+      <news:title>ZTE Nubia Flip3 and Nubia Fold Design Renders Leak Online</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/realme-gt-8-pro-india-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-25T13:57:00+01:00</news:publication_date>
+      <news:title>Realme GT 8 Pro Goes on Sale in India Today — Price, Specs, and Launch Offers</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/apple-foldable-iphone-price-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-25T13:58:00+01:00</news:publication_date>
+      <news:title>Apple's First Foldable iPhone Price Leaks — Expected to Be the Company's Most Expensive Yet</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/one-ui-8-5-beta-galaxy-s25-ultra-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-25T13:59:00+01:00</news:publication_date>
+      <news:title>One UI 8.5 Beta Nears Launch as First Test Build Appears for Galaxy S25 Ultra</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/huawei-mate-80-pro-max-geekbench-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-25T14:00:00+01:00</news:publication_date>
+      <news:title>Huawei Mate 80 Pro Max Appears on Geekbench With Powerful Specs Ahead of Launch</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/oppo-a6x-specs-leak-india-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-25T14:01:00+01:00</news:publication_date>
+      <news:title>Oppo A6x Key Specs Leak Ahead of India Launch: Dimensity 6300, 6,500mAh Battery Tipped</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/oneplus-15r-india-launch-december-17</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-25T14:02:00+01:00</news:publication_date>
+      <news:title>OnePlus 15R India Launch Set for December 17; Pad Go 2 Also Expected</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/lava-agni-4-sale-starts-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-25T14:03:00+01:00</news:publication_date>
+      <news:title>Lava Agni 4 Sale Starts Today at 12 Noon on Amazon — Price, Specs, and Offers</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://phonespecpro.com/news/poco-pad-x1-m1-launch-november-26</loc>
     <news:news>
       <news:publication>
