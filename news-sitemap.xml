@@ -4,6 +4,78 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://phonespecpro.com/news/vivo-s50-pro-mini-design-specs-revealed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-28T10:31:13+00:00</news:publication_date>
+      <news:title>Vivo S50 Pro Mini Design and Key Specifications Revealed</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/oneplus-ace-6t-8300mah-battery-100w-charging</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-28T10:31:13+00:00</news:publication_date>
+      <news:title>OnePlus Ace 6T Confirmed With 8,300mAh Battery and 100W Fast Charging</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/realme-c85-5g-launch-india</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-28T10:31:13+00:00</news:publication_date>
+      <news:title>Realme C85 5G Launches in India With Dimensity 6300 and 7,000mAh Battery — Price, Specs</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/iphone-air-price-drop-reliance-digital-black-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-28T10:31:13+00:00</news:publication_date>
+      <news:title>iPhone Air Sees Price Drop of Nearly ₹13,000 in Reliance Digital Black Friday Sale</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/oppo-a6x-5g-india-price-specs-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-28T10:31:13+00:00</news:publication_date>
+      <news:title>OPPO A6x 5G India Price Revealed Ahead of Launch — Full Specs Inside</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/amazon-black-friday-sale-2025-deals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-28T10:31:13+00:00</news:publication_date>
+      <news:title>Amazon Black Friday Sale: Big Deals on Smartphones, Home Appliances and More</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://phonespecpro.com/news/nothing-phone-3a-lite-launch-india</loc>
     <news:news>
       <news:publication>
