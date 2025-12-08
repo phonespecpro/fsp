@@ -4,50 +4,74 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
-    <loc>https://phonespecpro.com/news/samsung-instamart-10-minute-delivery-india</loc>
+    <loc>https://phonespecpro.com/vivo-s50-s50-pro-mini-launch-date-colors</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-05T10:30:58+00:00</news:publication_date>
-      <news:title>Samsung Galaxy Devices Now Available on Instamart With 10-Minute Instant Delivery in India</news:title>
+      <news:publication_date>2025-12-08T012:17:25+01:00</news:publication_date>
+      <news:title>Vivo S50 and S50 Pro Mini Launch Date Confirmed; Color Options Revealed</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://phonespecpro.com/news/oneplus-15r-geekbench-leak</loc>
+    <loc>https://phonespecpro.com/news/motorola-edge-70-india-launch-december-15</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-05T10:33:44+00:00</news:publication_date>
-      <news:title>OnePlus 15R Spotted on Geekbench With 12GB RAM and Android 16</news:title>
+      <news:publication_date>2025-12-08T012:20:03+01:00</news:publication_date>
+      <news:title>Motorola Edge 70 India Launch Set for December 15</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://phonespecpro.com/news/nothing-phone-3a-lite-india-sale-price-specs</loc>
+    <loc>https://phonespecpro.com/news/nothing-os-4-rollout-paused-urgent-fix</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-05T10:36:30+00:00</news:publication_date>
-      <news:title>Nothing Phone 3a Lite Goes on Sale in India — Price, Launch Offers, and Full Specifications</news:title>
+      <news:publication_date>2025-12-08T012:22:10+01:00</news:publication_date>
+      <news:title>Nothing OS 4.0 Rollout Paused as Company Works on 'Urgent' Fix</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://phonespecpro.com/news/motorola-edge-70-cloud-dancer-special-edition</loc>
+    <loc>https://phonespecpro.com/news/oneplus-15-us-pre-orders-pricing-features</loc>
     <news:news>
       <news:publication>
         <news:name>PhoneSpec Pro</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-05T10:39:48+00:00</news:publication_date>
-      <news:title>Motorola Edge 70 “Cloud Dancer” Special Edition Announced</news:title>
+      <news:publication_date>2025-12-08T012:25:08+01:00</news:publication_date>
+      <news:title>OnePlus 15 Pre-Orders Go Live in the US — Pricing and Key Features Revealed</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/realme-16-pro-series-launch-specs-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-08T012:27:01+01:00</news:publication_date>
+      <news:title>Realme 16 Pro Series Leak Reveals Launch Timeline, Storage Variants, Colors, Camera and Battery Specs</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/realme-narzo-90-series-5g-india-launch-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-08T012:29:13+01:00</news:publication_date>
+      <news:title>Realme Narzo 90 Series 5G India Launch Announced, Will Be Available on Amazon</news:title>
     </news:news>
   </url>
 
