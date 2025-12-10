@@ -1107,5 +1107,9 @@
         }
 
 
+       /* Prevent horizontal scrolling caused by ads */
+body, html {
+    overflow-x: hidden !important;
+}
 
 
