@@ -1109,28 +1109,3 @@
 
 
 
-
-
-
-
-
-   /* Prevent AdSense Auto Ads from breaking mobile layout */
-ins.adsbygoogle,
-.adsbygoogle,
-iframe[src*="ads"],
-iframe[id*="google_ads"] {
-    max-width: 100% !important;
-    width: 100% !important;
-    height: auto !important;
-    display: block !important;
-    overflow: hidden !important;
-    margin: 0 auto !important;
-    box-sizing: border-box !important;
-}
-
-/* Fix Google responsive ad containers */
-.adsbygoogle {
-    text-align: center !important;
-}
-
-
