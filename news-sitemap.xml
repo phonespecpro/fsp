@@ -4,6 +4,115 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
   <url>
+    <loc>https://phonespecpro.com/news/apple-ipad-2026-a19-m4-rumors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T17:50:00+01:00</news:publication_date>
+      <news:title>Apple’s Next iPad &amp; iPad Air Rumored with A19 &amp; M4 Chips Ahead of Launch</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/poco-m8-pro-fcc-certification-specs-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T17:52:00+01:00</news:publication_date>
+      <news:title>New Certification Reveals Key Poco M8 Pro Specs as Launch Nears</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/google-emergency-live-video-android-first-responders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T17:54:00+01:00</news:publication_date>
+      <news:title>Google Rolls Out "Emergency Live Video" on Android to Share Real-Time Footage With First Responders</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/oneplus-15r-ace-edition-india-launch-details</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T17:56:00+01:00</news:publication_date>
+      <news:title>OnePlus 15R Ace Edition India Launch Date and Availability Details Announced</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/redmi-15c-5g-india-sale-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T17:58:00+01:00</news:publication_date>
+      <news:title>Redmi 15C 5G Begins Sales in India With Big Battery and 50MP Camera</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/motorola-book-style-foldable-teaser-ces-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T18:00:00+01:00</news:publication_date>
+      <news:title>Motorola Teases Book-Style Foldable That Could Rival Galaxy Z Fold 7</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/apple-noida-store-second-delhi-ncr-opens</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T18:01:00+01:00</news:publication_date>
+      <news:title>Apple Opens New Store in Noida, Its Second in Delhi-NCR</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/vivo-x200t-leak-compact-design-zeiss-cameras</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T18:03:00+01:00</news:publication_date>
+      <news:title>Vivo X200T Leak Shows Compact Design, Zeiss Cameras Before Launch</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://phonespecpro.com/news/realme-lumacolor-image-tech-portrait-photography</loc>
+    <news:news>
+      <news:publication>
+        <news:name>PhoneSpec Pro</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T18:05:00+01:00</news:publication_date>
+      <news:title>Realme Unveils New LumaColor IMAGE Tech to Boost Portrait Photography Ahead of 16 Pro Series Launch</news:title>
+    </news:news>
+  </url>
+
+
+  <url>
     <loc>https://phonespecpro.com/news/galaxy-s26-camera-disappointment-report</loc>
     <news:news>
       <news:publication>
@@ -110,81 +219,5 @@
       <news:title>Google Photos Gets Upgraded With New Video-Editing Tools on Android and iOS</news:title>
     </news:news>
   </url>
-
-
-  <url>
-    <loc>https://phonespecpro.com/news/realme-narzo-90-90x-launch-date-confirmed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T12:28:45+01:00</news:publication_date>
-      <news:title>Realme Narzo 90 and Narzo 90x Launch Date Confirmed for India</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/google-apple-collaboration-switching-ecosystems</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T12:32:40+01:00</news:publication_date>
-      <news:title>Google and Apple Team Up to Make Switching Between Ecosystems Easier</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/lava-play-max-launch-price-specifications</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T12:37:55+01:00</news:publication_date>
-      <news:title>Lava Play Max Launches in India With VC Cooling and Dimensity 7300 — Price, Specs</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/redmi-note-15-5g-108-master-pixel-launch-date-specifications</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T12:44:15+01:00</news:publication_date>
-      <news:title>Redmi Note 15 5G 108 Master Pixel Special Edition India Launch Date Announced; Amazon Listing Confirms Availability</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/poco-c85-5g-launch-price-specifications</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T12:50:30+01:00</news:publication_date>
-      <news:title>Poco C85 5G Debuts in India With 6,000mAh Battery and 50MP Camera — Price, Specs</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/iphone-16-best-selling-smartphone-q3-2025-market-report</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T12:53:00+01:00</news:publication_date>
-      <news:title>iPhone 16 Becomes Best-Selling Smartphone of Q3 2025 as Apple and Samsung Lead Global Market</news:title>
-    </news:news>
-  </url>
-
-  
-
   
 </urlset>
