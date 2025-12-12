@@ -1113,25 +1113,4 @@ body, html {
 }
 
 
-/* Prevent AdSense Auto Ads from breaking mobile layout */
-.adsbygoogle,
-.adsbygoogle iframe,
-.adsbygoogle ins {
-    max-width: 100% !important;
-    width: 100% !important;
-    height: auto !important;
-    overflow: hidden !important;
-    display: block !important;
-    margin: 15px 0 !important;
-}
-
-/* Fix for responsive Auto Ads inside post content */
-.post-content .adsbygoogle,
-.entry-content .adsbygoogle,
-.article-body .adsbygoogle,
-#content .adsbygoogle {
-    width: 100% !important;
-    max-width: 100% !important;
-}
-
 
