@@ -1,82 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:media="http://search.yahoo.com/mrss/">
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
 
 <channel>
-    <title>PhoneSpecPro</title>
-    <link>https://phonespecpro.com/</link>
-    <description>Explore phone specifications, reviews, and comparisons of the latest smartphones. Compare camera, battery, performance, and prices to find the best phone for you.</description>
+    <title>PhoneSpec Pro – Latest Tech &amp; Smartphone News</title>
+    <link>https://phonespecpro.com</link>
+    <description>Daily smartphone, tech leaks, reviews, and breaking news updates.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Dec 2025 12:28:45 +0100</lastBuildDate>
-    <atom:link href="https://phonespecpro.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Fri, 12 Dec 2025 13:32:00 +0100</lastBuildDate>
 
-    <!-- Item 1 -->
+    <!-- 1. Apple AirTag 2 + HomePod mini -->
     <item>
-        <title>Realme Narzo 90 and Narzo 90x Launch Date Confirmed for India</title>
-        <link>https://phonespecpro.com/news/realme-narzo-90-90x-launch-date-confirmed</link>
-        <guid>https://phonespecpro.com/news/realme-narzo-90-90x-launch-date-confirmed</guid>
-        <pubDate>Tue, 09 Dec 2025 12:28:45 +0100</pubDate>
-        <description><![CDATA[
-            <img src="https://phonespecpro.com/img/realme-narzo-90-90x-launch-date-confirmed.webp" alt="Realme Narzo 90 and Narzo 90x"/>
-        ]]></description>
+        <title><![CDATA[Apple Rumoured to Be Developing Next-Gen AirTag and Upgraded HomePod mini Accessories]]></title>
+        <link>https://phonespecpro.com/news/apple-airtag-2-homepod-mini-2026-rumors</link>
+        <guid isPermaLink="true">https://phonespecpro.com/news/apple-airtag-2-homepod-mini-2026-rumors</guid>
+        <pubDate>Fri, 12 Dec 2025 13:00:00 +0100</pubDate>
+        <dc:creator><![CDATA[shedrack]]></dc:creator>
+        <description><![CDATA[Leaked iOS 26 code reveals Apple's plans for AirTag 2 with advanced tracking and a refreshed HomePod mini with S10 chip for 2026.]]></description>
+        <media:content url="https://phonespecpro.com/img/apple-airtag-2-homepod-mini-2026-rumors.webp" medium="image"/>
     </item>
 
-    <!-- Item 2 -->
+    <!-- 2. Honor X8d -->
     <item>
-        <title>Google and Apple Team Up to Make Switching Between Ecosystems Easier</title>
-        <link>https://phonespecpro.com/news/google-apple-collaboration-switching-ecosystems</link>
-        <guid>https://phonespecpro.com/news/google-apple-collaboration-switching-ecosystems</guid>
-        <pubDate>Tue, 09 Dec 2025 12:32:40 +0100</pubDate>
-        <description><![CDATA[
-            <img src="https://phonespecpro.com/img/google-apple-collaboration-switching-ecosystems.webp" alt="Google and Apple Collaboration"/>
-        ]]></description>
+        <title><![CDATA[Honor X8d Officially Revealed With Huge 7,000 mAh Battery and 4G-Only Chipset]]></title>
+        <link>https://phonespecpro.com/news/honor-x8d-specifications-revealed</link>
+        <guid isPermaLink="true">https://phonespecpro.com/news/honor-x8d-specifications-revealed</guid>
+        <pubDate>Fri, 12 Dec 2025 13:04:00 +0100</pubDate>
+        <dc:creator><![CDATA[shedrack]]></dc:creator>
+        <description><![CDATA[Honor X8d appears online with a gigantic 7,000 mAh battery, 108MP camera, and Snapdragon 6s 4G Gen 2 chipset.]]></description>
+        <media:content url="https://phonespecpro.com/img/honor-x8d-specifications-revealed.webp" medium="image"/>
     </item>
 
-    <!-- Item 3 -->
+    <!-- 3. Nothing Phone 4a / 4a Pro -->
     <item>
-        <title>Lava Play Max Launches in India With VC Cooling and Dimensity 7300 — Price, Specs</title>
-        <link>https://phonespecpro.com/news/lava-play-max-launch-price-specifications</link>
-        <guid>https://phonespecpro.com/news/lava-play-max-launch-price-specifications</guid>
-        <pubDate>Tue, 09 Dec 2025 12:37:55 +0100</pubDate>
-        <description><![CDATA[
-            <img src="https://phonespecpro.com/img/lava-play-max-launch-price-specifications.webp" alt="Lava Play Max"/>
-        ]]></description>
+        <title><![CDATA[Nothing Phone (4a) and (4a) Pro Specs Leak Along With Rumoured Nothing Headphone (a)]]></title>
+        <link>https://phonespecpro.com/news/nothing-phone-4a-4a-pro-headphone-a-leak</link>
+        <guid isPermaLink="true">https://phonespecpro.com/news/nothing-phone-4a-4a-pro-headphone-a-leak</guid>
+        <pubDate>Fri, 12 Dec 2025 13:08:00 +0100</pubDate>
+        <dc:creator><![CDATA[shedrack]]></dc:creator>
+        <description><![CDATA[Specs & pricing for Nothing Phone (4a) and (4a) Pro leak, featuring Snapdragon 7s/7 Gen 4 and a budget Nothing Headphone (a).]]></description>
+        <media:content url="https://phonespecpro.com/img/nothing-phone-4a-4a-pro-headphone-a-leak.webp" medium="image"/>
     </item>
 
-    <!-- Item 4 -->
+    <!-- 4. Samsung Global-Shutter Sensor -->
     <item>
-        <title>Redmi Note 15 5G 108 Master Pixel Special Edition India Launch Date Announced; Amazon Listing Confirms Availability</title>
-        <link>https://phonespecpro.com/news/redmi-note-15-5g-108-master-pixel-launch-date-specifications</link>
-        <guid>https://phonespecpro.com/news/redmi-note-15-5g-108-master-pixel-launch-date-specifications</guid>
-        <pubDate>Tue, 09 Dec 2025 12:44:15 +0100</pubDate>
-        <description><![CDATA[
-            <img src="https://phonespecpro.com/img/redmi-note-15-5g-108-master-pixel-launch-date-specifications.webp" alt="Redmi Note 15 5G"/>
-        ]]></description>
+        <title><![CDATA[Samsung Reportedly Exploring Global-Shutter Image Sensor Tech for Future Galaxy Flagships]]></title>
+        <link>https://phonespecpro.com/news/samsung-global-shutter-sensor-report</link>
+        <guid isPermaLink="true">https://phonespecpro.com/news/samsung-global-shutter-sensor-report</guid>
+        <pubDate>Fri, 12 Dec 2025 13:12:00 +0100</pubDate>
+        <dc:creator><![CDATA[shedrack]]></dc:creator>
+        <description><![CDATA[Samsung may be developing a hybrid 12MP sensor with global-shutter-level performance to eliminate motion distortion.]]></description>
+        <media:content url="https://phonespecpro.com/img/samsung-global-shutter-sensor-report.webp" medium="image"/>
     </item>
 
-    <!-- Item 5 -->
+    <!-- 5. DJI Neo 2 -->
     <item>
-        <title>Poco C85 5G Debuts in India With 6,000mAh Battery and 50MP Camera — Price, Specs</title>
-        <link>https://phonespecpro.com/news/poco-c85-5g-launch-price-specifications</link>
-        <guid>https://phonespecpro.com/news/poco-c85-5g-launch-price-specifications</guid>
-        <pubDate>Tue, 09 Dec 2025 12:50:30 +0100</pubDate>
-        <description><![CDATA[
-            <img src="https://phonespecpro.com/img/poco-c85-5g-launch-price-specifications.webp" alt="Poco C85 5G"/>
-        ]]></description>
+        <title><![CDATA[DJI Neo 2 Drone Gets Apple Watch Control Support, Adding Wrist-Based Convenience]]></title>
+        <link>https://phonespecpro.com/news/dji-neo-2-apple-watch-control</link>
+        <guid isPermaLink="true">https://phonespecpro.com/news/dji-neo-2-apple-watch-control</guid>
+        <pubDate>Fri, 12 Dec 2025 13:16:00 +0100</pubDate>
+        <dc:creator><![CDATA[shedrack]]></dc:creator>
+        <description><![CDATA[New firmware update brings full Apple Watch control to the DJI Neo 2, enabling steering and recording from the wrist.]]></description>
+        <media:content url="https://phonespecpro.com/img/dji-neo-2-apple-watch-control.webp" medium="image"/>
     </item>
 
-    <!-- Item 6 -->
+    <!-- 6. Moto G 2026 -->
     <item>
-        <title>iPhone 16 Becomes Best-Selling Smartphone of Q3 2025 as Apple and Samsung Lead Global Market</title>
-        <link>https://phonespecpro.com/news/iphone-16-best-selling-smartphone-q3-2025-market-report</link>
-        <guid>https://phonespecpro.com/news/iphone-16-best-selling-smartphone-q3-2025-market-report</guid>
-        <pubDate>Tue, 09 Dec 2025 12:53:00 +0100</pubDate>
-        <description><![CDATA[
-            <img src="https://phonespecpro.com/img/iphone-16-best-selling-smartphone-q3-2025-market-report.webp" alt="iPhone 16"/>
-        ]]></description>
+        <title><![CDATA[Moto G (2026) Now Available in the US and Canada]]></title>
+        <link>https://phonespecpro.com/news/moto-g-2026-availability-us-canada</link>
+        <guid isPermaLink="true">https://phonespecpro.com/news/moto-g-2026-availability-us-canada</guid>
+        <pubDate>Fri, 12 Dec 2025 13:20:00 +0100</pubDate>
+        <dc:creator><![CDATA[shedrack]]></dc:creator>
+        <description><![CDATA[The 2026 Moto G launches in North America with Android 16, a 120Hz display, and Pantone color options.]]></description>
+        <media:content url="https://phonespecpro.com/img/moto-g-2026-availability-us-canada.webp" medium="image"/>
+    </item>
+
+    <!-- 7. ChatGPT-5.2 -->
+    <item>
+        <title><![CDATA[OpenAI Unveils ChatGPT-5.2 With Smarter Long-Context Reasoning, Better Tool Support and Productivity Boosts]]></title>
+        <link>https://phonespecpro.com/news/openai-chatgpt-5-2-launch-features</link>
+        <guid isPermaLink="true">https://phonespecpro.com/news/openai-chatgpt-5-2-launch-features</guid>
+        <pubDate>Fri, 12 Dec 2025 13:24:00 +0100</pubDate>
+        <dc:creator><![CDATA[shedrack]]></dc:creator>
+        <description><![CDATA[OpenAI launches GPT-5.2, a reasoning-focused upgrade delivering major improvements in coding, document analysis & workflows.]]></description>
+        <media:content url="https://phonespecpro.com/img/openai-chatgpt-5-2-launch-features.webp" medium="image"/>
+    </item>
+
+    <!-- 8. Adobe + ChatGPT -->
+    <item>
+        <title><![CDATA[ChatGPT Gets Adobe Boost: Photoshop, Acrobat and Express Now Work Inside the Chat Interface]]></title>
+        <link>https://phonespecpro.com/news/chatgpt-adobe-photoshop-acrobat-express-integration</link>
+        <guid isPermaLink="true">https://phonespecpro.com/news/chatgpt-adobe-photoshop-acrobat-express-integration</guid>
+        <pubDate>Fri, 12 Dec 2025 13:28:00 +0100</pubDate>
+        <dc:creator><![CDATA[shedrack]]></dc:creator>
+        <description><![CDATA[Adobe integrates Photoshop, Acrobat & Express directly into ChatGPT for easy photo editing, design, and PDF management.]]></description>
+        <media:content url="https://phonespecpro.com/img/chatgpt-adobe-photoshop-acrobat-express-integration.webp" medium="image"/>
+    </item>
+
+    <!-- 9. NVIDIA Cyberpunk Anniversary Giveaway -->
+    <item>
+        <title><![CDATA[NVIDIA Marks Cyberpunk 2077's 5th Anniversary With Ultra-Rare RTX 2080 Ti Giveaway Signed by CEO]]></title>
+        <link>https://phonespecpro.com/news/nvidia-cyberpunk-rtx-2080-ti-giveaway</link>
+        <guid isPermaLink="true">https://phonespecpro.com/news/nvidia-cyberpunk-rtx-2080-ti-giveaway</guid>
+        <pubDate>Fri, 12 Dec 2025 13:32:00 +0100</pubDate>
+        <dc:creator><![CDATA[shedrack]]></dc:creator>
+        <description><![CDATA[NVIDIA celebrates Cyberpunk 2077's anniversary with a custom RTX 2080 Ti GPU signed by Jensen Huang.]]></description>
+        <media:content url="https://phonespecpro.com/img/nvidia-cyberpunk-rtx-2080-ti-giveaway.webp" medium="image"/>
     </item>
 
 </channel>

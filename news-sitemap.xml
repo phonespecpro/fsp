@@ -2,6 +2,123 @@
 <urlset 
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <!-- 1. Apple AirTag 2 + HomePod mini Rumor -->
+    <url>
+        <loc>https://phonespecpro.com/news/apple-airtag-2-homepod-mini-2026-rumors</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-12T13:00:00+01:00</news:publication_date>
+            <news:title>Apple Rumoured to Be Developing Next-Gen AirTag and Upgraded HomePod mini Accessories</news:title>
+        </news:news>
+    </url>
+
+    <!-- 2. Honor X8d -->
+    <url>
+        <loc>https://phonespecpro.com/news/honor-x8d-specifications-revealed</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-12T13:04:00+01:00</news:publication_date>
+            <news:title>Honor X8d Officially Revealed With Huge 7,000 mAh Battery and 4G-Only Chipset</news:title>
+        </news:news>
+    </url>
+
+    <!-- 3. Nothing Phone 4a / 4a Pro -->
+    <url>
+        <loc>https://phonespecpro.com/news/nothing-phone-4a-4a-pro-headphone-a-leak</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-12T13:08:00+01:00</news:publication_date>
+            <news:title>Nothing Phone (4a) and (4a) Pro Specs Leak Along With Rumoured Nothing Headphone (a)</news:title>
+        </news:news>
+    </url>
+
+    <!-- 4. Samsung Global Shutter Sensor -->
+    <url>
+        <loc>https://phonespecpro.com/news/samsung-global-shutter-sensor-report</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-12T13:12:00+01:00</news:publication_date>
+            <news:title>Samsung Reportedly Exploring Global-Shutter Image Sensor Tech for Future Galaxy Flagships</news:title>
+        </news:news>
+    </url>
+
+    <!-- 5. DJI Neo 2 -->
+    <url>
+        <loc>https://phonespecpro.com/news/dji-neo-2-apple-watch-control</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-12T13:16:00+01:00</news:publication_date>
+            <news:title>DJI Neo 2 Drone Gets Apple Watch Control Support, Adding Wrist-Based Convenience</news:title>
+        </news:news>
+    </url>
+
+    <!-- 6. Moto G 2026 -->
+    <url>
+        <loc>https://phonespecpro.com/news/moto-g-2026-availability-us-canada</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-12T13:20:00+01:00</news:publication_date>
+            <news:title>Moto G (2026) Now Available in the US and Canada</news:title>
+        </news:news>
+    </url>
+
+    <!-- 7. ChatGPT 5.2 -->
+    <url>
+        <loc>https://phonespecpro.com/news/openai-chatgpt-5-2-launch-features</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-12T13:24:00+01:00</news:publication_date>
+            <news:title>OpenAI Unveils ChatGPT-5.2 With Smarter Long-Context Reasoning, Better Tool Support and Productivity Boosts</news:title>
+        </news:news>
+    </url>
+
+    <!-- 8. Adobe + ChatGPT Integration -->
+    <url>
+        <loc>https://phonespecpro.com/news/chatgpt-adobe-photoshop-acrobat-express-integration</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-12T13:28:00+01:00</news:publication_date>
+            <news:title>ChatGPT Gets Adobe Boost: Photoshop, Acrobat and Express Now Work Inside the Chat Interface</news:title>
+        </news:news>
+    </url>
+
+    <!-- 9. NVIDIA Cyberpunk Giveaway -->
+    <url>
+        <loc>https://phonespecpro.com/news/nvidia-cyberpunk-rtx-2080-ti-giveaway</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-12T13:32:00+01:00</news:publication_date>
+            <news:title>NVIDIA Marks Cyberpunk 2077's 5th Anniversary With Ultra-Rare RTX 2080 Ti Giveaway Signed by CEO</news:title>
+        </news:news>
+    </url>
   
   <url>
     <loc>https://phonespecpro.com/news/apple-ipad-2026-a19-m4-rumors</loc>
@@ -111,113 +228,5 @@
     </news:news>
   </url>
 
-
-  <url>
-    <loc>https://phonespecpro.com/news/galaxy-s26-camera-disappointment-report</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T14:30:45+01:00</news:publication_date>
-      <news:title>Report: Galaxy S26 Might Use Same Cameras as Galaxy S25, Sparking Fan Disappointment</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/samsung-galaxy-a07-a37-a57-early-2026-launch-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T14:32:45+01:00</news:publication_date>
-      <news:title>Samsung May Launch Galaxy A07 5G, A37 &amp; A57 Sooner Than Expected — Early-2026 Timeline Leaks</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/realme-16-pro-series-premium-design-2026-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T14:34:45+01:00</news:publication_date>
-      <news:title>Realme 16 Pro Series Spotted: Premium Design Rumoured for Early 2026 Release</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/us-allows-nvidia-h200-exports-to-china</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T14:38:45+01:00</news:publication_date>
-      <news:title>U.S. Allows Nvidia to Export High-End Chips to Authorized Chinese Buyers — Trade Shift Confirmed</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/realme-16-pro-plus-box-leak-periscope-telephoto</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T14:40:45+01:00</news:publication_date>
-      <news:title>Realme 16 Pro+ Box Leak Hints at Return of Periscope Telephoto Camera</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/poco-x8-pro-bis-certification-india-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T14:42:45+01:00</news:publication_date>
-      <news:title>Poco X8 Pro Appears on BIS Certification — India Launch Could Be Around the Corner</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/vivo-v70-t5x-bis-certification-india-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T14:44:45+01:00</news:publication_date>
-      <news:title>Vivo V70 and T5x 5G Show Up in BIS Listings Ahead of Indian Debut</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/vivo-x300-x300-pro-india-launch-sale</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T14:46:45+01:00</news:publication_date>
-      <news:title>Vivo X300 &amp; X300 Pro Now Available in India — Telephoto Extender Kit Included</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://phonespecpro.com/news/google-photos-new-video-editing-tools</loc>
-    <news:news>
-      <news:publication>
-        <news:name>PhoneSpec Pro</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T14:48:45+01:00</news:publication_date>
-      <news:title>Google Photos Gets Upgraded With New Video-Editing Tools on Android and iOS</news:title>
-    </news:news>
-  </url>
   
 </urlset>
