@@ -3,6 +3,78 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+        <loc>https://phonespecpro.com/news/apple-ios-26-2-ipados-26-2-update</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-13T16:30:23+01:00</news:publication_date>
+            <news:title>Apple Releases iOS 26.2 and iPadOS 26.2 With Lock Screen Tweaks, Offline Lyrics and Multitasking Upgrades</news:title>
+        </news:news>
+    </url>
+
+    <url>
+        <loc>https://phonespecpro.com/news/google-translate-gemini-ai-live-translation</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-13T16:35:50+01:00</news:publication_date>
+            <news:title>Google Translate Now Powered by Gemini AI, Adds Live Headphone Translation and Smarter Text Support</news:title>
+        </news:news>
+    </url>
+
+    <url>
+        <loc>https://phonespecpro.com/news/oneplus-15r-32mp-autofocus-selfie-camera-4k-video</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-13T16:40:40+01:00</news:publication_date>
+            <news:title>OnePlus 15R Confirmed With 32-Megapixel Autofocus Selfie Camera and 4K Video Recording</news:title>
+        </news:news>
+    </url>
+
+    <url>
+        <loc>https://phonespecpro.com/news/top-gaming-phones-2025</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-13T16:45:30+01:00</news:publication_date>
+            <news:title>Top Gaming Phones of 2025: Best Picks for Power, Performance and Portable Play</news:title>
+        </news:news>
+    </url>
+
+    <url>
+        <loc>https://phonespecpro.com/news/best-phone-deals-week-december-2025</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-13T16:50:20+01:00</news:publication_date>
+            <news:title>Best Phone Deals of the Week: Pixel 10, Galaxy S25 &amp; More Discounts</news:title>
+        </news:news>
+    </url>
+
+    <url>
+        <loc>https://phonespecpro.com/news/iphone-16-tops-global-sales-q3-2025</loc>
+        <news:news>
+            <news:publication>
+                <news:name>PhoneSpec Pro</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-13T16:55:10+01:00</news:publication_date>
+            <news:title>iPhone 16 Tops Global Sales in Q3 2025, Samsung A-Series Strong Too</news:title>
+        </news:news>
+    </url>
+
   <!-- 1. Apple AirTag 2 + HomePod mini Rumor -->
     <url>
         <loc>https://phonespecpro.com/news/apple-airtag-2-homepod-mini-2026-rumors</loc>
