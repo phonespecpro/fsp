@@ -21,6 +21,8 @@
             color: var(--dark);
             line-height: 1.6;
             overflow-x: hidden;
+            position: relative;
+            width: 100%;
         }
 
         .container {
@@ -1198,5 +1200,6 @@ html, body {
   overflow-x: hidden !important;
   max-width: 100%;
 }
+
 
 
