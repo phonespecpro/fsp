@@ -1192,3 +1192,11 @@
         word-break: break-word;
     }
 }
+
+
+html, body {
+  overflow-x: hidden !important;
+  max-width: 100%;
+}
+
+
