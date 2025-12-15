@@ -384,10 +384,10 @@
                     <a href="https://phonespecpro.com/brands/">Brands</a>
                     <!-- <a href="#">Deals</a> -->
                 </div>
-                <!-- <div class="search-bar">
+                <div class="search-bar">
                     <i class="fas fa-search"></i>
-                    <input type="text" placeholder="Search phones...">
-                </div> -->
+                    <input type="text" placeholder="Search phones..." id="siteSearch">
+                </div>
                 <div class="mobile-menu">
                     <i class="fas fa-bars"></i>
                 </div>
@@ -403,10 +403,10 @@
                 <i class="fas fa-times"></i>
             </button>
         </div>
-        <!-- <div class="mobile-search">
+        <div class="mobile-search">
             <i class="fas fa-search"></i>
-            <input type="text" placeholder="Search phones...">
-        </div> -->
+            <input type="text" placeholder="Search phones..." id="siteSearch">
+        </div>
         <div class="mobile-nav-links">
             <a href="https://phonespecpro.com/"><i class="fas fa-home"></i> Home</a>
             <a href="https://phonespecpro.com/phones/"><i class="fas fa-mobile-alt"></i> Phones</a>
@@ -917,6 +917,34 @@
             </div>
         </div>
     </footer>
+    <script>
+const input = document.getElementById("siteSearch");
+const resultsBox = document.getElementById("searchResults");
+
+let debounce;
+input.addEventListener("input", () => {
+  clearTimeout(debounce);
+
+  debounce = setTimeout(async () => {
+    const q = input.value.trim();
+    if (!q) return resultsBox.innerHTML = "";
+
+    const res = await fetch(
+      "https://search.olitechgames.workers.dev/search?q=" + encodeURIComponent(q)
+    );
+    const data = await res.json();
+
+    resultsBox.innerHTML = data.length
+      ? data.map(item => `
+        <div class="search-item">
+          <a href="${item.url}">${item.title}</a>
+        </div>
+      `).join("")
+      : `<div class="search-item">No results found</div>`;
+  }, 300);
+});
+</script>
+
 <script src="https://phonespecpro.com/script.js"></script>
 </body>
 </html>
