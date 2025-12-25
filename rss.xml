@@ -1,42 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
-	<channel>
-		<title>PhoneSpec Pro - Latest Phone News</title>
-		<link><![CDATA[https://phonespecpro.com/]]></link>
-		<description>Explore phone specifications, reviews, and comparisons of the latest smartphones. Compare camera, battery, performance, and prices to find the best phone for you.</description>
-		<language>en</language>
-		<pubDate>Thu, 25 Dec 2025 19:42:52 +0000</pubDate>
-		
-		<item>
-			<guid isPermaLink="true">1048183776</guid>
-			<title>Oppo Pad Air 5 Launched With 120Hz Display, Dimensity 7300-Ultra Chip and Huge 10,050 mAh Battery</title>
-			<link>https://phonespecpro.com/news/oppo-pad-air-5-launch-news</link>
-			<author>Shedrack</author>
-			<description>Oppo has officially launched the Pad Air 5 tablet in China, featuring a 12.1-inch 120Hz display, MediaTek Dimensity 7300-Ultra chipset, and a massive 10,050mAh battery.</description>
-			<content:encoded><![CDATA[<p>By: <a href="https://phonespecpro.com/author/shedrack">Shedrack</a></p><p><img src="https://phonespecpro.com/img/oppo-pad-air-5-launch-news.webp"></p><p>News Update: This article was updated with final specifications and pricing following the official launch on December 25, 2025.</p><p>Oppo has officially launched the Oppo Pad Air 5 tablet in China, bringing a compelling mix of a high-refresh-rate display, capable performance, and exceptional battery life to the mid-range tablet segment. The device, which appears to be a rebranded version of the OnePlus Pad Go 2 for the Chinese market, was unveiled on December 25 and is now available for pre-order.</p><p>Positioned as a balanced device for entertainment, light productivity, and long-term use, the Pad Air 5 succeeds the Oppo Pad Air 2 and will go on sale starting December 31.</p>]]></content:encoded>
-			<pubDate>Thu, 25 Dec 2025 20:15:02 +0100</pubDate>
-			<enclosure url="https://phonespecpro.com/img/oppo-pad-air-5-launch-news.webp" />
-		</item>
-		<item>
-			<guid isPermaLink="true">1375466471</guid>
-			<title>Xiaomi 17 Ultra Launches With 1-Inch Sensor, 200MP Periscope Zoom and 6,800mAh Battery</title>
-			<link>https://phonespecpro.com/news/xiaomi-17-ultra-launch-news</link>
-			<author>Shedrack</author>
-			<description>Xiaomi has officially launched the 17 Ultra, its most ambitious camera flagship to date, featuring a 1-inch main sensor, a 200MP periscope telephoto with continuous optical zoom, and a massive 6,800mAh battery.</description>
-			<content:encoded><![CDATA[<p>Your ultimate destination for comprehensive phone specifications, comparisons, and reviews.</p><h3>Quick Links</h3><h3>About Us</h3><p>© 2025 PhoneSpec Pro. All rights reserved.</p>]]></content:encoded>
-			<pubDate>Thu, 25 Dec 2025 20:30:15 +0100</pubDate>
-			<enclosure url="https://phonespecpro.com/img/xiaomi-17-ultra-launch-news.webp" />
-		</item>
-		<item>
-			<guid isPermaLink="true">2930114471</guid>
-			<title>Apple to Allow iPhone Users in Brazil to Install Apps and Use Payments Outside the App Store</title>
-			<link>https://phonespecpro.com/news/apple-brazil-third-party-app-stores</link>
-			<author>Shedrack</author>
-			<description>Apple Inc. has agreed to settle a long-running antitrust investigation in Brazil by allowing third-party app stores and alternative payment systems on iOS devices in the country.</description>
-			<content:encoded><![CDATA[<p>By: <a href="https://phonespecpro.com/author/shedrack">Shedrack</a></p><p><img src="https://phonespecpro.com/img/apple-brazil-third-party-app-stores.webp"></p><p>In a significant shift driven by global regulatory pressure, Apple Inc. has agreed to open its iOS ecosystem in Brazil, allowing third-party app stores and alternative payment systems for the first time in the country. The settlement, approved by Brazil's competition watchdog CADE (Administrative Council for Economic Defense) , ends a three-year antitrust investigation that began in 2022.</p><p>The move will fundamentally change how millions of Brazilian iPhone users download apps and make in-app purchases, granting them freedoms currently available only in regions like the European Union and Japan. Apple has 105 days to implement the changes, with a potential deadline in early April 2026, which may align with the release of iOS 26.4 .</p><p>for Apple to implement the changes in Brazil, or face fines of up to R$150 million (approx. $27 million USD) .</p><h2>What Will Change for Brazilian iPhone Users?</h2><p>Under the binding settlement, known as a Term of Commitment to Cease (TCC) , Apple must make several key changes to its iOS and App Store policies in Brazil.</p><p>Alternative App Stores Users will be able to install apps from third-party marketplaces, like the AltStore from developer Riley Testut, not just Apple's official App Store.</p><p>External Payment Links Developers can link to their own websites for payment processing, bypassing Apple's In-App Purchase system.</p><p>Third-Party Payment Options Payment methods from other providers can be offered directly within apps, alongside Apple's own system.</p><p>Neutral Warnings Any Apple warnings about using third-party stores or payments must be "written in a neutral and objective way".</p><p>Important: The settlement agreement is binding for a period of three years . Apple has stated it will comply but maintains that these changes "will open new privacy and security risks to users".</p>]]></content:encoded>
-			<pubDate>Thu, 25 Dec 2025 20:40:00 +0100</pubDate>
-			<enclosure url="https://phonespecpro.com/img/apple-brazil-third-party-app-stores-news.webp" />
-		</item>
-	</channel>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+    <channel>
+        <title>PhoneSpec Pro - Latest Phone News</title>
+        <link><![CDATA[https://phonespecpro.com/]]></link>
+        <description>Explore phone specifications, reviews, and comparisons of the latest smartphones.</description>
+        <language>en</language>
+        <pubDate>Thu, 25 Dec 2025 19:42:52 +0000</pubDate>
+
+        <item>
+            <guid isPermaLink="true">1048183776</guid>
+            <title>Oppo Pad Air 5 Launched With 120Hz Display, Dimensity 7300-Ultra Chip and Huge 10,050 mAh Battery</title>
+            <link>https://phonespecpro.com/news/oppo-pad-air-5-launch-news</link>
+            <author>Shedrack</author>
+            <description>Oppo has officially launched the Pad Air 5 tablet in China.</description>
+            <pubDate>Thu, 25 Dec 2025 20:15:02 +0100</pubDate>
+        </item>
+
+        <item>
+            <guid isPermaLink="true">1375466471</guid>
+            <title>Xiaomi 17 Ultra Launches With 1-Inch Sensor, 200MP Periscope Zoom and 6,800mAh Battery</title>
+            <link>https://phonespecpro.com/news/xiaomi-17-ultra-launch-news</link>
+            <author>Shedrack</author>
+            <description>Xiaomi has launched the 17 Ultra flagship smartphone.</description>
+            <pubDate>Thu, 25 Dec 2025 20:30:15 +0100</pubDate>
+        </item>
+
+        <item>
+            <guid isPermaLink="true">2930114471</guid>
+            <title>Apple to Allow iPhone Users in Brazil to Install Apps and Use Payments Outside the App Store</title>
+            <link>https://phonespecpro.com/news/apple-brazil-third-party-app-stores</link>
+            <author>Shedrack</author>
+            <description>Apple will allow third-party app stores and alternative payments in Brazil.</description>
+            <pubDate>Thu, 25 Dec 2025 20:40:00 +0100</pubDate>
+        </item>
+
+    </channel>
 </rss>
