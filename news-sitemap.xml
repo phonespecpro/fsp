@@ -1,195 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-        <loc>https://phonespecpro.com/news/apple-ios-26-2-ipados-26-2-update</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-13T16:30:23+01:00</news:publication_date>
-            <news:title>Apple Releases iOS 26.2 and iPadOS 26.2 With Lock Screen Tweaks, Offline Lyrics and Multitasking Upgrades</news:title>
-        </news:news>
-    </url>
-
+    <!-- Oppo Pad Air 5 -->
     <url>
-        <loc>https://phonespecpro.com/news/google-translate-gemini-ai-live-translation</loc>
+        <loc>https://phonespecpro.com/news/oppo-pad-air-5-launch-news</loc>
         <news:news>
             <news:publication>
                 <news:name>PhoneSpec Pro</news:name>
                 <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-13T16:35:50+01:00</news:publication_date>
-            <news:title>Google Translate Now Powered by Gemini AI, Adds Live Headphone Translation and Smarter Text Support</news:title>
+            <news:publication_date>2025-12-25T20:15:02+01:00</news:publication_date>
+            <news:title>Oppo Pad Air 5 Launched With 120Hz Display, Dimensity 7300-Ultra Chip and Huge 10,050 mAh Battery</news:title>
         </news:news>
     </url>
 
+    <!-- Xiaomi 17 Ultra -->
     <url>
-        <loc>https://phonespecpro.com/news/oneplus-15r-32mp-autofocus-selfie-camera-4k-video</loc>
+        <loc>https://phonespecpro.com/news/xiaomi-17-ultra-launch-news</loc>
         <news:news>
             <news:publication>
                 <news:name>PhoneSpec Pro</news:name>
                 <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-13T16:40:40+01:00</news:publication_date>
-            <news:title>OnePlus 15R Confirmed With 32-Megapixel Autofocus Selfie Camera and 4K Video Recording</news:title>
+            <news:publication_date>2025-12-25T20:30:15+01:00</news:publication_date>
+            <news:title>Xiaomi 17 Ultra Launches With 1-Inch Sensor, 200MP Periscope Zoom and 6,800mAh Battery</news:title>
         </news:news>
     </url>
 
+    <!-- Apple Brazil App Stores -->
     <url>
-        <loc>https://phonespecpro.com/news/top-gaming-phones-2025</loc>
+        <loc>https://phonespecpro.com/news/apple-brazil-third-party-app-stores</loc>
         <news:news>
             <news:publication>
                 <news:name>PhoneSpec Pro</news:name>
                 <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-13T16:45:30+01:00</news:publication_date>
-            <news:title>Top Gaming Phones of 2025: Best Picks for Power, Performance and Portable Play</news:title>
+            <news:publication_date>2025-12-25T20:40:00+01:00</news:publication_date>
+            <news:title>Apple to Allow iPhone Users in Brazil to Install Apps and Use Payments Outside the App Store</news:title>
         </news:news>
     </url>
 
-    <url>
-        <loc>https://phonespecpro.com/news/best-phone-deals-week-december-2025</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-13T16:50:20+01:00</news:publication_date>
-            <news:title>Best Phone Deals of the Week: Pixel 10, Galaxy S25 &amp; More Discounts</news:title>
-        </news:news>
-    </url>
-
-    <url>
-        <loc>https://phonespecpro.com/news/iphone-16-tops-global-sales-q3-2025</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-13T16:55:10+01:00</news:publication_date>
-            <news:title>iPhone 16 Tops Global Sales in Q3 2025, Samsung A-Series Strong Too</news:title>
-        </news:news>
-    </url>
-
-  <!-- 1. Apple AirTag 2 + HomePod mini Rumor -->
-    <url>
-        <loc>https://phonespecpro.com/news/apple-airtag-2-homepod-mini-2026-rumors</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-12T13:00:00+01:00</news:publication_date>
-            <news:title>Apple Rumoured to Be Developing Next-Gen AirTag and Upgraded HomePod mini Accessories</news:title>
-        </news:news>
-    </url>
-
-    <!-- 2. Honor X8d -->
-    <url>
-        <loc>https://phonespecpro.com/news/honor-x8d-specifications-revealed</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-12T13:04:00+01:00</news:publication_date>
-            <news:title>Honor X8d Officially Revealed With Huge 7,000 mAh Battery and 4G-Only Chipset</news:title>
-        </news:news>
-    </url>
-
-    <!-- 3. Nothing Phone 4a / 4a Pro -->
-    <url>
-        <loc>https://phonespecpro.com/news/nothing-phone-4a-4a-pro-headphone-a-leak</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-12T13:08:00+01:00</news:publication_date>
-            <news:title>Nothing Phone (4a) and (4a) Pro Specs Leak Along With Rumoured Nothing Headphone (a)</news:title>
-        </news:news>
-    </url>
-
-    <!-- 4. Samsung Global Shutter Sensor -->
-    <url>
-        <loc>https://phonespecpro.com/news/samsung-global-shutter-sensor-report</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-12T13:12:00+01:00</news:publication_date>
-            <news:title>Samsung Reportedly Exploring Global-Shutter Image Sensor Tech for Future Galaxy Flagships</news:title>
-        </news:news>
-    </url>
-
-    <!-- 5. DJI Neo 2 -->
-    <url>
-        <loc>https://phonespecpro.com/news/dji-neo-2-apple-watch-control</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-12T13:16:00+01:00</news:publication_date>
-            <news:title>DJI Neo 2 Drone Gets Apple Watch Control Support, Adding Wrist-Based Convenience</news:title>
-        </news:news>
-    </url>
-
-    <!-- 6. Moto G 2026 -->
-    <url>
-        <loc>https://phonespecpro.com/news/moto-g-2026-availability-us-canada</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-12T13:20:00+01:00</news:publication_date>
-            <news:title>Moto G (2026) Now Available in the US and Canada</news:title>
-        </news:news>
-    </url>
-
-    <!-- 7. ChatGPT 5.2 -->
-    <url>
-        <loc>https://phonespecpro.com/news/openai-chatgpt-5-2-launch-features</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-12T13:24:00+01:00</news:publication_date>
-            <news:title>OpenAI Unveils ChatGPT-5.2 With Smarter Long-Context Reasoning, Better Tool Support and Productivity Boosts</news:title>
-        </news:news>
-    </url>
-
-    <!-- 8. Adobe + ChatGPT Integration -->
-    <url>
-        <loc>https://phonespecpro.com/news/chatgpt-adobe-photoshop-acrobat-express-integration</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-12T13:28:00+01:00</news:publication_date>
-            <news:title>ChatGPT Gets Adobe Boost: Photoshop, Acrobat and Express Now Work Inside the Chat Interface</news:title>
-        </news:news>
-    </url>
-
-    <!-- 9. NVIDIA Cyberpunk Giveaway -->
-    <url>
-        <loc>https://phonespecpro.com/news/nvidia-cyberpunk-rtx-2080-ti-giveaway</loc>
-        <news:news>
-            <news:publication>
-                <news:name>PhoneSpec Pro</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-12T13:32:00+01:00</news:publication_date>
-            <news:title>NVIDIA Marks Cyberpunk 2077's 5th Anniversary With Ultra-Rare RTX 2080 Ti Giveaway Signed by CEO</news:title>
-        </news:news>
-    </url>
-  
 </urlset>

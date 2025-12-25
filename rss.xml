@@ -1,113 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
-
-<channel>
-    <title>PhoneSpec Pro – Latest Tech &amp; Smartphone News</title>
-    <link>https://phonespecpro.com</link>
-    <description>Daily smartphone, tech leaks, reviews, and breaking news updates.</description>
-    <language>en</language>
-    <lastBuildDate>Fri, 12 Dec 2025 13:32:00 +0100</lastBuildDate>
-
-    <!-- 1. Apple AirTag 2 + HomePod mini -->
-    <item>
-        <title><![CDATA[Apple Rumoured to Be Developing Next-Gen AirTag and Upgraded HomePod mini Accessories]]></title>
-        <link>https://phonespecpro.com/news/apple-airtag-2-homepod-mini-2026-rumors</link>
-        <guid isPermaLink="true">https://phonespecpro.com/news/apple-airtag-2-homepod-mini-2026-rumors</guid>
-        <pubDate>Fri, 12 Dec 2025 13:00:00 +0100</pubDate>
-        <dc:creator><![CDATA[shedrack]]></dc:creator>
-        <description><![CDATA[Leaked iOS 26 code reveals Apple's plans for AirTag 2 with advanced tracking and a refreshed HomePod mini with S10 chip for 2026.]]></description>
-        <media:content url="https://phonespecpro.com/img/apple-airtag-2-homepod-mini-2026-rumors.webp" medium="image"/>
-    </item>
-
-    <!-- 2. Honor X8d -->
-    <item>
-        <title><![CDATA[Honor X8d Officially Revealed With Huge 7,000 mAh Battery and 4G-Only Chipset]]></title>
-        <link>https://phonespecpro.com/news/honor-x8d-specifications-revealed</link>
-        <guid isPermaLink="true">https://phonespecpro.com/news/honor-x8d-specifications-revealed</guid>
-        <pubDate>Fri, 12 Dec 2025 13:04:00 +0100</pubDate>
-        <dc:creator><![CDATA[shedrack]]></dc:creator>
-        <description><![CDATA[Honor X8d appears online with a gigantic 7,000 mAh battery, 108MP camera, and Snapdragon 6s 4G Gen 2 chipset.]]></description>
-        <media:content url="https://phonespecpro.com/img/honor-x8d-specifications-revealed.webp" medium="image"/>
-    </item>
-
-    <!-- 3. Nothing Phone 4a / 4a Pro -->
-    <item>
-        <title><![CDATA[Nothing Phone (4a) and (4a) Pro Specs Leak Along With Rumoured Nothing Headphone (a)]]></title>
-        <link>https://phonespecpro.com/news/nothing-phone-4a-4a-pro-headphone-a-leak</link>
-        <guid isPermaLink="true">https://phonespecpro.com/news/nothing-phone-4a-4a-pro-headphone-a-leak</guid>
-        <pubDate>Fri, 12 Dec 2025 13:08:00 +0100</pubDate>
-        <dc:creator><![CDATA[shedrack]]></dc:creator>
-        <description><![CDATA[Specs & pricing for Nothing Phone (4a) and (4a) Pro leak, featuring Snapdragon 7s/7 Gen 4 and a budget Nothing Headphone (a).]]></description>
-        <media:content url="https://phonespecpro.com/img/nothing-phone-4a-4a-pro-headphone-a-leak.webp" medium="image"/>
-    </item>
-
-    <!-- 4. Samsung Global-Shutter Sensor -->
-    <item>
-        <title><![CDATA[Samsung Reportedly Exploring Global-Shutter Image Sensor Tech for Future Galaxy Flagships]]></title>
-        <link>https://phonespecpro.com/news/samsung-global-shutter-sensor-report</link>
-        <guid isPermaLink="true">https://phonespecpro.com/news/samsung-global-shutter-sensor-report</guid>
-        <pubDate>Fri, 12 Dec 2025 13:12:00 +0100</pubDate>
-        <dc:creator><![CDATA[shedrack]]></dc:creator>
-        <description><![CDATA[Samsung may be developing a hybrid 12MP sensor with global-shutter-level performance to eliminate motion distortion.]]></description>
-        <media:content url="https://phonespecpro.com/img/samsung-global-shutter-sensor-report.webp" medium="image"/>
-    </item>
-
-    <!-- 5. DJI Neo 2 -->
-    <item>
-        <title><![CDATA[DJI Neo 2 Drone Gets Apple Watch Control Support, Adding Wrist-Based Convenience]]></title>
-        <link>https://phonespecpro.com/news/dji-neo-2-apple-watch-control</link>
-        <guid isPermaLink="true">https://phonespecpro.com/news/dji-neo-2-apple-watch-control</guid>
-        <pubDate>Fri, 12 Dec 2025 13:16:00 +0100</pubDate>
-        <dc:creator><![CDATA[shedrack]]></dc:creator>
-        <description><![CDATA[New firmware update brings full Apple Watch control to the DJI Neo 2, enabling steering and recording from the wrist.]]></description>
-        <media:content url="https://phonespecpro.com/img/dji-neo-2-apple-watch-control.webp" medium="image"/>
-    </item>
-
-    <!-- 6. Moto G 2026 -->
-    <item>
-        <title><![CDATA[Moto G (2026) Now Available in the US and Canada]]></title>
-        <link>https://phonespecpro.com/news/moto-g-2026-availability-us-canada</link>
-        <guid isPermaLink="true">https://phonespecpro.com/news/moto-g-2026-availability-us-canada</guid>
-        <pubDate>Fri, 12 Dec 2025 13:20:00 +0100</pubDate>
-        <dc:creator><![CDATA[shedrack]]></dc:creator>
-        <description><![CDATA[The 2026 Moto G launches in North America with Android 16, a 120Hz display, and Pantone color options.]]></description>
-        <media:content url="https://phonespecpro.com/img/moto-g-2026-availability-us-canada.webp" medium="image"/>
-    </item>
-
-    <!-- 7. ChatGPT-5.2 -->
-    <item>
-        <title><![CDATA[OpenAI Unveils ChatGPT-5.2 With Smarter Long-Context Reasoning, Better Tool Support and Productivity Boosts]]></title>
-        <link>https://phonespecpro.com/news/openai-chatgpt-5-2-launch-features</link>
-        <guid isPermaLink="true">https://phonespecpro.com/news/openai-chatgpt-5-2-launch-features</guid>
-        <pubDate>Fri, 12 Dec 2025 13:24:00 +0100</pubDate>
-        <dc:creator><![CDATA[shedrack]]></dc:creator>
-        <description><![CDATA[OpenAI launches GPT-5.2, a reasoning-focused upgrade delivering major improvements in coding, document analysis & workflows.]]></description>
-        <media:content url="https://phonespecpro.com/img/openai-chatgpt-5-2-launch-features.webp" medium="image"/>
-    </item>
-
-    <!-- 8. Adobe + ChatGPT -->
-    <item>
-        <title><![CDATA[ChatGPT Gets Adobe Boost: Photoshop, Acrobat and Express Now Work Inside the Chat Interface]]></title>
-        <link>https://phonespecpro.com/news/chatgpt-adobe-photoshop-acrobat-express-integration</link>
-        <guid isPermaLink="true">https://phonespecpro.com/news/chatgpt-adobe-photoshop-acrobat-express-integration</guid>
-        <pubDate>Fri, 12 Dec 2025 13:28:00 +0100</pubDate>
-        <dc:creator><![CDATA[shedrack]]></dc:creator>
-        <description><![CDATA[Adobe integrates Photoshop, Acrobat & Express directly into ChatGPT for easy photo editing, design, and PDF management.]]></description>
-        <media:content url="https://phonespecpro.com/img/chatgpt-adobe-photoshop-acrobat-express-integration.webp" medium="image"/>
-    </item>
-
-    <!-- 9. NVIDIA Cyberpunk Anniversary Giveaway -->
-    <item>
-        <title><![CDATA[NVIDIA Marks Cyberpunk 2077's 5th Anniversary With Ultra-Rare RTX 2080 Ti Giveaway Signed by CEO]]></title>
-        <link>https://phonespecpro.com/news/nvidia-cyberpunk-rtx-2080-ti-giveaway</link>
-        <guid isPermaLink="true">https://phonespecpro.com/news/nvidia-cyberpunk-rtx-2080-ti-giveaway</guid>
-        <pubDate>Fri, 12 Dec 2025 13:32:00 +0100</pubDate>
-        <dc:creator><![CDATA[shedrack]]></dc:creator>
-        <description><![CDATA[NVIDIA celebrates Cyberpunk 2077's anniversary with a custom RTX 2080 Ti GPU signed by Jensen Huang.]]></description>
-        <media:content url="https://phonespecpro.com/img/nvidia-cyberpunk-rtx-2080-ti-giveaway.webp" medium="image"/>
-    </item>
-
-</channel>
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>PhoneSpec Pro - Latest Phone News</title>
+		<link><![CDATA[https://phonespecpro.com/]]></link>
+		<description>Explore phone specifications, reviews, and comparisons of the latest smartphones. Compare camera, battery, performance, and prices to find the best phone for you.</description>
+		<language>en</language>
+		<pubDate>Thu, 25 Dec 2025 19:42:52 +0000</pubDate>
+		
+		<item>
+			<guid isPermaLink="true">1048183776</guid>
+			<title>Oppo Pad Air 5 Launched With 120Hz Display, Dimensity 7300-Ultra Chip and Huge 10,050 mAh Battery</title>
+			<link>https://phonespecpro.com/news/oppo-pad-air-5-launch-news</link>
+			<author>Shedrack</author>
+			<description>Oppo has officially launched the Pad Air 5 tablet in China, featuring a 12.1-inch 120Hz display, MediaTek Dimensity 7300-Ultra chipset, and a massive 10,050mAh battery.</description>
+			<content:encoded><![CDATA[<p>By: <a href="https://phonespecpro.com/author/shedrack">Shedrack</a></p><p><img src="https://phonespecpro.com/img/oppo-pad-air-5-launch-news.webp"></p><p>News Update: This article was updated with final specifications and pricing following the official launch on December 25, 2025.</p><p>Oppo has officially launched the Oppo Pad Air 5 tablet in China, bringing a compelling mix of a high-refresh-rate display, capable performance, and exceptional battery life to the mid-range tablet segment. The device, which appears to be a rebranded version of the OnePlus Pad Go 2 for the Chinese market, was unveiled on December 25 and is now available for pre-order.</p><p>Positioned as a balanced device for entertainment, light productivity, and long-term use, the Pad Air 5 succeeds the Oppo Pad Air 2 and will go on sale starting December 31.</p>]]></content:encoded>
+			<pubDate>Thu, 25 Dec 2025 20:15:02 +0100</pubDate>
+			<enclosure url="https://phonespecpro.com/img/oppo-pad-air-5-launch-news.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="true">1375466471</guid>
+			<title>Xiaomi 17 Ultra Launches With 1-Inch Sensor, 200MP Periscope Zoom and 6,800mAh Battery</title>
+			<link>https://phonespecpro.com/news/xiaomi-17-ultra-launch-news</link>
+			<author>Shedrack</author>
+			<description>Xiaomi has officially launched the 17 Ultra, its most ambitious camera flagship to date, featuring a 1-inch main sensor, a 200MP periscope telephoto with continuous optical zoom, and a massive 6,800mAh battery.</description>
+			<content:encoded><![CDATA[<p>Your ultimate destination for comprehensive phone specifications, comparisons, and reviews.</p><h3>Quick Links</h3><h3>About Us</h3><p>© 2025 PhoneSpec Pro. All rights reserved.</p>]]></content:encoded>
+			<pubDate>Thu, 25 Dec 2025 20:30:15 +0100</pubDate>
+			<enclosure url="https://phonespecpro.com/img/xiaomi-17-ultra-launch-news.webp" />
+		</item>
+		<item>
+			<guid isPermaLink="true">2930114471</guid>
+			<title>Apple to Allow iPhone Users in Brazil to Install Apps and Use Payments Outside the App Store</title>
+			<link>https://phonespecpro.com/news/apple-brazil-third-party-app-stores</link>
+			<author>Shedrack</author>
+			<description>Apple Inc. has agreed to settle a long-running antitrust investigation in Brazil by allowing third-party app stores and alternative payment systems on iOS devices in the country.</description>
+			<content:encoded><![CDATA[<p>By: <a href="https://phonespecpro.com/author/shedrack">Shedrack</a></p><p><img src="https://phonespecpro.com/img/apple-brazil-third-party-app-stores.webp"></p><p>In a significant shift driven by global regulatory pressure, Apple Inc. has agreed to open its iOS ecosystem in Brazil, allowing third-party app stores and alternative payment systems for the first time in the country. The settlement, approved by Brazil's competition watchdog CADE (Administrative Council for Economic Defense) , ends a three-year antitrust investigation that began in 2022.</p><p>The move will fundamentally change how millions of Brazilian iPhone users download apps and make in-app purchases, granting them freedoms currently available only in regions like the European Union and Japan. Apple has 105 days to implement the changes, with a potential deadline in early April 2026, which may align with the release of iOS 26.4 .</p><p>for Apple to implement the changes in Brazil, or face fines of up to R$150 million (approx. $27 million USD) .</p><h2>What Will Change for Brazilian iPhone Users?</h2><p>Under the binding settlement, known as a Term of Commitment to Cease (TCC) , Apple must make several key changes to its iOS and App Store policies in Brazil.</p><p>Alternative App Stores Users will be able to install apps from third-party marketplaces, like the AltStore from developer Riley Testut, not just Apple's official App Store.</p><p>External Payment Links Developers can link to their own websites for payment processing, bypassing Apple's In-App Purchase system.</p><p>Third-Party Payment Options Payment methods from other providers can be offered directly within apps, alongside Apple's own system.</p><p>Neutral Warnings Any Apple warnings about using third-party stores or payments must be "written in a neutral and objective way".</p><p>Important: The settlement agreement is binding for a period of three years . Apple has stated it will comply but maintains that these changes "will open new privacy and security risks to users".</p>]]></content:encoded>
+			<pubDate>Thu, 25 Dec 2025 20:40:00 +0100</pubDate>
+			<enclosure url="https://phonespecpro.com/img/apple-brazil-third-party-app-stores-news.webp" />
+		</item>
+	</channel>
 </rss>
